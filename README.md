@@ -1,5 +1,5 @@
 # comprez
-Compressing files using Burrows-Wheeler transformation
+Compressing files using Burrows-Wheeler transform
 
 Compile using g++ compiler:
 ```
